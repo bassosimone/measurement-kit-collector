@@ -6,5 +6,5 @@ Dummy collector using for running MeasurementKit regress tests.
 
 ```
 npm install
-node index.js
+node server.js
 ```
